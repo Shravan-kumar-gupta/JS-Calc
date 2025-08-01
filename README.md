@@ -13,7 +13,7 @@ It can perform **addition, subtraction, multiplication, and division**.
 
 ## 📂 How to Use
 1. Clone the repository  
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/Shravan-kumar-gupta/calculator-app.git
 
 markdown
 Copy
