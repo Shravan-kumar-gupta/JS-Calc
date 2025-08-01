@@ -9,7 +9,7 @@ It can perform **addition, subtraction, multiplication, and division**.
 - Instant result display
 
 ## 📸 Screenshot
-![Calculator Screenshot](images/screenshot.png)
+![Calculator Screenshot](images/calculator.png)
 
 ## 📂 How to Use
 1. Clone the repository  
